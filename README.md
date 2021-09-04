@@ -28,10 +28,10 @@ And you can see detailed fitting process in [***inference.ipnyb***](https://gith
 
 
 ## Analysis
-See the optimized parameters in [***analysis.ipynb***](https://github.com/sjinu96/covid19/blob/main/analysis.ipynb)
+See the **several analysis of variables** in [***analysis.ipynb***](https://github.com/sjinu96/covid19/blob/main/analysis.ipynb)
 ![Fig 7](https://user-images.githubusercontent.com/71121461/129679277-4c9c5083-90d4-4e9d-9d59-b73637b2ecdc.png)
 ![Fig 8  b](https://user-images.githubusercontent.com/71121461/129679289-97022c82-f38f-4779-b09a-3c3316c7a6b6.png)
 ## Result
-See the optimized parameters in [***analysis.ipynb***](https://github.com/sjinu96/covid19/blob/main/analysis.ipynb)
+See the **prediction code** in [***analysis.ipynb***](https://github.com/sjinu96/covid19/blob/main/analysis.ipynb)
 ![Fig 10](https://user-images.githubusercontent.com/71121461/129679216-8f12d1c8-20ca-407b-8ec3-63f16dc4d962.png)
 
