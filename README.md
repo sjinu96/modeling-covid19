@@ -1,5 +1,5 @@
 # covid19
-Inference code for research "Mathematical Modeling of the Spread of COVID-19 Transmission Taking Into Account the Undocumented Infection Group and Government Policy Compliance in South Korea" published in *Journal of The Korean Data Analysis Society*
+Inference code for research ["Mathematical Modeling of the Spread of COVID-19 Transmission Taking Into Account the Undocumented Infection Group and Government Policy Compliance in South Korea" published in *Journal of The Korean Data Analysis Society*](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002749129)
 
 **주의!**   
  본 github에 포함된 Implementation code들은 정리하지 않은 날 것 그 자체이므로 단순 참고용으로만 볼 것을 권합니다.
