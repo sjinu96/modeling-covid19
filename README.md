@@ -15,6 +15,10 @@ See the algorithm and module in [***main_model.py***](https://github.com/sjinu96
 ![image](https://user-images.githubusercontent.com/71121461/129679544-77076566-bbaa-4bbf-940e-604185c67ffd.png)
 ![image](https://user-images.githubusercontent.com/71121461/129679585-717463df-b2e4-4e4c-8534-909e34814baf.png)
 
+### Example of Optization
+![image](https://user-images.githubusercontent.com/71121461/140298007-bd28501f-a5e9-451c-98bd-7e4de75462b3.png)
+
+
 ## Parameters
 See the optimized parameters in [***result***](https://github.com/sjinu96/covid19/tree/main/result)
 And you can see detailed fitting process in [***inference.ipnyb***](https://github.com/sjinu96/covid19/blob/main/inference.ipynb)
